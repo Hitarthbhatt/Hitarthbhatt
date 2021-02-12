@@ -25,9 +25,14 @@
   Work Experience
 </h2>
 
-# Jain Fast Food
+
 <p align="center">
-<img src="Images/AppLogo/Logo.png" width="50"  title="Word Guess">
+<img src="Images/AppLogo/Logo.png" width="80"  title="Word Guess">
 </p>
+
+<h3 align="center">
+  Jain Fast Food
+</h3>
+
 
 
