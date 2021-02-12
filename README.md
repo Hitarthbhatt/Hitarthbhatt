@@ -26,7 +26,7 @@
 </h3>
 
 <p align="center">
-<img src="Images/AppLogo/Logo.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/AppLogo/Logo.png" width="50"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">
