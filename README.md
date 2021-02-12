@@ -1,3 +1,8 @@
+<p align="center">
+<img src="Images/Profile/WhatsApp Image 2020-04-02 at 8.26.50 AM.jpeg" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
 # Portfolio
 <r>Centered text</r>
 
