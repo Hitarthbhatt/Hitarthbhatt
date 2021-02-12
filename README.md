@@ -1,6 +1,16 @@
 <p align="center">
-<img src="Images/Profile/WhatsApp Image 2020-04-02 at 8.26.50 AM.jpeg" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Profile/WhatsApp Image 2020-04-02 at 8.26.50 AM.jpeg" alt="profile" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+![profile](Images/Profile/WhatsApp Image 2020-04-02 at 8.26.50 AM.jpeg# thumbnail bordered)
+
+img[src~="thumbnail"] {
+   width:150px;
+   height:100px;
+}
+img[src~="bordered"] {
+   border: 1px solid black;
+}
 
 
 # Portfolio
