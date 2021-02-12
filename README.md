@@ -38,6 +38,14 @@ Users have several features like Add to cart, Select quantity, Favorites, Pay on
 
 I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
 
+
+<b><h5>
+  Framework Used
+</h5></b>
+
+SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Combine, SDWebImage
+
+
 <p>&nbsp;</p>
 
 <p align="center">
