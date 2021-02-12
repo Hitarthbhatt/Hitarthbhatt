@@ -26,9 +26,10 @@
 </h2>
 
 <p align="center">
-<img src="Images/AppLogo/Logo.png" width="50"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/AppLogo/Logo.png" width="50"  title="Word Guess">
+  ## Jain Fast Food
 </p>
 
-<h4 align="center">
-  Jain Fast Food
+<h4 >
+  
 </h4>
