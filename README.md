@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/Profile/profilePic.png" alt="profile" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Profile/profilePic.png" alt="profile" width="200"  title="Word Guess">&nbsp;
 </p>
 
 <h1 align="center">
@@ -35,9 +35,11 @@
   Jain Fast Food
 </h3>
 
-Sakura is an iOS word-guessing game, which I recently built as a take-home project. The specs were to build a basic 'hangman' game, and to then extend it as I saw fit. I decided to run with it and build something a bit more positive, creative, and colorful. In my app, the Sakura tree loses blooms each time you make an incorrect guess. If you guess the word correctly, the tree bursts back into bloom with a lovely animation.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Sakura was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for UI design, and makes extensive use of both UIView animations and CAEmitterLayers.  
+
+<p align="center">
+<a href="https://apps.apple.com/us/app/jain-fast-food/id1550106944" target="_blank"><img src="Images/AppLogo/App Store.png" ></a>
+</p>
 
 
 <p align="center">
