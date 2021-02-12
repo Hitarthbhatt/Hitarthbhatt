@@ -41,7 +41,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 
 <p align="center">
-<img src="images/sakura/sakura-play.png" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-win.png" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/sakura/sakura-example.gif" width="226" title="Word Guess">
+<img src="Images/Jain Fast Food/Home.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Menu.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Detail.png" width="226" title="Detail">
 </p>
 
 
