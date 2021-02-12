@@ -21,14 +21,14 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">
+<h2 align="center">
   Work Experience
-</h3>
+</h2>
 
 <p align="center">
 <img src="Images/AppLogo/Logo.png" width="50"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">
+<h4 align="center">
   Jain Fast Food
-</h2>
+</h4>
