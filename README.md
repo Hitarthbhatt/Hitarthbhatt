@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/Profile/profile.png" alt="profile" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Profile/profilePic.png" alt="profile" width="230"  title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
