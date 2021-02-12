@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/hitarth-bhatt" target="_blank"><img src="https://img.shields.io/badge/linkedin-Hitarth_Bhatt-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </p>
 
-<p>&nbsp;</p>
+
 
 <h2 align="center">
   Work Experience
@@ -33,7 +33,9 @@
   Jain Fast Food
 </h3>
 
-Jain Fast Food is 
+Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
+Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
 
 <p>&nbsp;</p>
 
