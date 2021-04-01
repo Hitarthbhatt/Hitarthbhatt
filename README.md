@@ -131,7 +131,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 
 <p align="center">
-<img src="Images/Agora/Welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Login.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Election.png" width="220" title="Cart">
+<img src="Images/Agora/Welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Login.png" width="250" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Election.png" width="250" title="Cart">
 </p>
 
 
