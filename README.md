@@ -58,6 +58,33 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 
 <p>&nbsp;</p>
 
+
+
+<p align="center">
+<img src="Images/Cake/logo.png" width="80"  title="Word Guess">
+</p>
+
+<h3 align="center">
+  Cake Shop
+</h3>
+
+Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
+Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
+
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
+
+
+
+<p>&nbsp;</p>
+
+
+<p align="center">
+<img src="Images/Cake/welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="226" title="Cart">
+</p>
+
+
+
+
 <h1 align="center">
  Thank You For Stopping By!
 </h1>
