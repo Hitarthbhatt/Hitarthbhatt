@@ -79,7 +79,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 
 <p align="center">
-<img src="Images/Cake/welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="250" title="Cart">
+<img src="Images/Cake/welcome.png" width="240"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="240" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="240" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="240" title="Cart">
 </p>
 
 
