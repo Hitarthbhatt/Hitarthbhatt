@@ -59,7 +59,7 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 <p>&nbsp;</p>
 
 
-
+<p>&nbsp;</p>
 <p align="center">
 <img src="Images/Cake/logo.png" width="80"  title="Word Guess">
 </p>
@@ -79,7 +79,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 
 <p align="center">
-   <img src="Images/Cake/Cake.gif" width="230"  title="gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="Images/Cake/Cake.gif" width="500"  title="gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
 <p align="center">
