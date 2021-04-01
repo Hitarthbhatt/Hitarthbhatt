@@ -59,6 +59,17 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 <p>&nbsp;</p>
 
 
+
+
+
+
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 <p align="center">
 <img src="Images/Cake/logo.png" width="80"  title="Word Guess">
@@ -83,8 +94,59 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
   </p>
 
 <p align="center">
-<img src="Images/Cake/welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="225" title="Cart">
+<img src="Images/Cake/welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="222" title="Cart">
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p align="center">
+<img src="Images/Agora/logo.png" width="80"  title="Word Guess">
+</p>
+
+<h3 align="center">
+  Agora
+</h3>
+
+Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
+Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
+
+I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
+
+
+
+<p>&nbsp;</p>
+
+
+<p align="center">
+<img src="Images/Agora/Welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Login.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Election.png" width="230" title="Cart">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
