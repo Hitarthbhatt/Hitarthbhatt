@@ -169,7 +169,7 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
 
 
 <p align="center">
-<img src="Images/Swastik/Rotato Snapshot1.png" width="450"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Swastik/Rotato Snapshot.png" width="450" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/Swastik/Rotato Snapshot1.png" width="450"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Swastik/Rotato Snapshot.png" width="480" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
