@@ -79,10 +79,10 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
   Cake Shop
 </h2>
 
-Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
-Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
+CakeShop is the cake ordering application prototype that I am currently working on. In this application, the users can see all the cakes that are available in the nearby bakery shops. Users have several features like 
+1) Live Tracking, 2) Add to cart, 3) Select quantity, 4) Favorites, 5) Pay on delivery, 6) Takeaway, and 7) Order Status, etc. these are the main features that increase User Experience.
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
+I'm so excited about users to feedback when this app will available on the app store.
 
 
 
@@ -120,10 +120,10 @@ I'm extremely pleased with how the project came out. I'm particularly proud of t
   Agora
 </h2>
 
-Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
-Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
+In 2020 I tried to participate in Google Summer of Code (GSoC) and take Open Source Organization AOSSIE project which is the Agora Vote iOS Application. 
 
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
+In this application, users can create elections by adding the name, description, start and end time, election type, and some other details.
+Also, users can participate in the election and vote for its favored candidate.
 
 
 
