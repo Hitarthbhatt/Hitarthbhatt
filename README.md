@@ -125,7 +125,9 @@ In 2020 I tried to participate in Google Summer of Code (GSoC) and take Open Sou
 In this application, users can create elections by adding the name, description, start and end time, election type, and some other details.
 Also, users can participate in the election and vote for its favored candidate.
 
-
+<p color="blue">
+<a href="Images/Agora/My Proposal.pdf" target="_blank">  My Proposal </a>
+</p>
 
 <p>&nbsp;</p>
 
