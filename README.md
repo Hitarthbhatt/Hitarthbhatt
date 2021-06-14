@@ -70,6 +70,84 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 
 
 
+<p align="center">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Logo.png" width="100"  title="Zone">
+</p>
+
+<h2 align="center">
+Shomp
+</h2>
+
+
+<p align="center">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Launch.png" width="230"  title="Launch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Home.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Detaill.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <i>Get your code here: <a href="https://github.com/Hitarthbhatt/Zone">Let's Go</a></i>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Logo.png" width="100"  title="Shomp">
+</p>
+
+<h2 align="center">
+Shomp
+</h2>
+
+
+<p align="center">
+<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Bookmark.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Home.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Cart.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+    <i>Get your code here: <a href="https://github.com/Hitarthbhatt/Shomp-ShoppingApp">Let's Go</a></i>
+  
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>&nbsp;</p>
 <p align="center">
 <img src="Images/Cake/logo.png" width="80"  title="Word Guess">
@@ -149,26 +227,6 @@ Also, users can participate in the election and vote for its favored candidate.
 
 
 
-
-
-<p>&nbsp;</p>
-<p align="center">
-<img src="Images/Swastik/logo.png" width="80"  title="Word Guess">
-</p>
-
-<h2 align="center">
-  Swastik Education
-</h2>
-
-Swastik Education is a smart study platform that not only provides paid courses but also believes in providing benefit to all the students preparing for the exams by providing Free e-courses such as Current Affairs, Monthly Magazine, etc.
-
-
-<p>&nbsp;</p>
-
-
-<p align="center">
-<img src="Images/Swastik/Rotato Snapshot1.png" width="450"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Swastik/Rotato Snapshot.png" width="480" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
 
