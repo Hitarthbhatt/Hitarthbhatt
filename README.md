@@ -75,14 +75,14 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 </p>
 
 <h2 align="center">
-Shomp
+Zone
 </h2>
 
 
 <p align="center">
 <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Launch.png" width="230"  title="Launch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Home.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Detaill.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Detaill.png" width="230" title="Detail">
   
   <i>Get your code here: <a href="https://github.com/Hitarthbhatt/Zone">Let's Go</a></i>
 </p>
@@ -112,15 +112,12 @@ Shomp
 <p align="center">
 <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Bookmark.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Home.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Cart.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Cart.png" width="230" title="Detail">
   
-    <i>Get your code here: <a href="https://github.com/Hitarthbhatt/Shomp-ShoppingApp">Let's Go</a></i>
-  
+
 </p>
 
-
-
-
+<i>Get your code here: <a href="https://github.com/Hitarthbhatt/Shomp-ShoppingApp">Let's Go</a></i>
 
 
 
