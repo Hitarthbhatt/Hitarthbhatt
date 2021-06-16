@@ -70,7 +70,7 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 
 
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Logo.png" width="100"  title="Zone">
 </p>
 
@@ -88,7 +88,7 @@ Zone
 </p>
 
 <i>Get your code here: <a href="https://github.com/Hitarthbhatt/Zone">Let's Go</a></i>
- -->
+
 
 
 
