@@ -62,6 +62,44 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 
 
 
+<p align="center">
+<img src="Images/SwiftyGo/SwiftyGo.png" width="100"  title="SwiftyGo">
+</p>
+
+<h2 align="center">
+SwiftyGo
+</h2>
+
+SwiftyGo is written in Swift to help you to navigate between SwiftUI Views using only one line of code.
+
+Setup Instructions
+------------------
+To integrate SSSwiftyGo into your Xcode project using CocoaPods, specify it in your `Podfile`:
+```ruby
+pod 'SwiftyGo', '~> 1.0.0'
+```
+and in your code add `import SwiftyGo`.
+
+<p>&nbsp;</p>
+
+<p align="center">
+<img src="Images/SwiftyGo/MoveToView.gif" width="500" height="350" title="Home">
+  <img src="Images/SwiftyGo/popToPrevious.gif" width="500" height="350" title="Menu">
+  
+
+</p>
+
+<i>Get your code here: <a href="https://github.com/SimformSolutionsPvtLtd/SSSwiftyGo">Let's Go</a></i>
+
+
+
+
+
+
+
+
+
+
 
 
 
