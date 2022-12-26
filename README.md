@@ -53,13 +53,9 @@ SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Com
 
 <p>&nbsp;</p>
 
-
-
-
-
-
-
-
+<p align="center">
+ <a href="https://apps.apple.com/us/app/jain-fast-food/id1550106944" target="_blank"><img src="Images/AppLogo/App Store.png" width="150" ></a>
+ </p>
 
 
 <p align="center">
