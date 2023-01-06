@@ -16,26 +16,20 @@
 <br>
 
 ## 🌎 &nbsp;Where to find me
-<div>
-<a href="https://www.linkedin.com/in/hitarth-bhatt/"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;&nbsp;&nbsp;
-
-    <a href="https://twitter.com/HitarthBhatt10" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;
-
-    <a href="hitarthbhatt12@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<p>
+<a href="https://www.linkedin.com/in/hitarth-bhatt/"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/HitarthBhatt10/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a href="hitarthbhatt12@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <br>
 
 ## 📈 &nbsp;Github Stats
 
-<div align="center">
-<img alt="Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarthbhatt&layout=compact" height="150">
-
-&nbsp;&nbsp;
+<p align="center">
+<img alt="Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarthbhatt&layout=compact" height="150">&nbsp;&nbsp;
 <img alt="Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hitarthbhatt&show_icons=true&include_all_commits=true&bg_color=00000000" height="150">
 
-</div>
+</p>
 
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=Hitarthbhatt.Hitarthbhatt)
