@@ -1,280 +1,41 @@
-<p align="center">
-<img src="Images/Profile/profilePic.png" alt="profile" width="200"  title="Word Guess">&nbsp;
-</p>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="25px" height="25px"/>&nbsp;<b> Hey there, Welcome! </b>
 
-<h1 align="center">
-  Hitarth Bhatt
-</h1>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/AstroCoder.svg" width="200"/>
+<p>
+  <b><h4>
+  I'm Hitarth Bhatt, iOS developer from <b>Rajasthan, India</b>.</p>
+  </h4></b>
+  
+  - 💡 &nbsp;I'm currently working on iOS, Swift, and SwiftUI.
+  
+  - 👀 &nbsp;I'm looking forward to collaborate on Swift and SwiftUI projects.
 
-<h5 align="center">
-  IOS Developer Portfolio
-</h5>
-
-
-<p align="center">
-<a href="Resume/Hitarth Bhatt Resume.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:hitarthbhatt12@gmail.com"><img src="https://img.shields.io/badge/Email-Hitarth-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hitarth-bhatt" target="_blank"><img src="https://img.shields.io/badge/linkedin-Hitarth_Bhatt-brightgreen.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</p>
-
-
-
-<h2 align="center">
-  Work Experience
-</h2>
-
-<p>&nbsp;</p>
-
-<p align="center">
-<img src="Images/AppLogo/Logo.png" width="80"  title="Word Guess">
-</p>
-
-<h2 align="center">
-  Jain Fast Food
-</h2>
-
-Jain Fast Food is the fast-food application that I build for my first client and distribute to the App Store. In this application, the users can see all the food which are available in the client cafe.
-Users have several features like Add to cart, Select quantity, Favorites, Pay on delivery, Takeaway and Order Status, etc. these are the main features that increase User Experience.
-
-I'm extremely pleased with how the project came out. I'm particularly proud of the app's animation, UI design, and easily-extended architecture. Jain Fast Food was built with Xcode and written entirely in Swift 5
-
-
-<h3>
-  <b>Framework Used</b>
-  </h3>
-
-SwiftUI, Firebase, CoreLocation, Push Notification, JSON, SwiftyJSON, UIKit, Combine, SDWebImage
-
-
-<p>&nbsp;</p>
-<p align="center">
-<img src="Images/Jain Fast Food/Home.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Menu.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Detail.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Jain Fast Food/Cart.png" width="226" title="Cart">
-</p>
-
-<p>&nbsp;</p>
-
-<p align="center">
- <a href="https://apps.apple.com/us/app/jain-fast-food/id1550106944" target="_blank"><img src="Images/AppLogo/App Store.png" width="150" ></a>
+  - 💬 &nbsp;Ask me about anything and everything! 
+  
  </p>
+<br>
 
+## 🌎 &nbsp;Where to find me
+<div>
+<a href="https://www.linkedin.com/in/hitarth-bhatt/"target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-<img src="Images/SwiftyGo/SwiftyGo.png" width="100"  title="SwiftyGo">
-</p>
+    <a href="https://twitter.com/HitarthBhatt10" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;
 
-<h2 align="center">
-SwiftyGo
-</h2>
+    <a href="hitarthbhatt12@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-SwiftyGo is written in Swift to help you to navigate between SwiftUI Views using only one line of code.
+<br>
 
-Setup Instructions
-------------------
-To integrate SSSwiftyGo into your Xcode project using CocoaPods, specify it in your `Podfile`:
-```ruby
-pod 'SwiftyGo', '~> 1.0.0'
-```
-and in your code add `import SwiftyGo`.
+## 📈 &nbsp;Github Stats
 
-<p>&nbsp;</p>
+<div align="center">
+<img alt="Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitarthbhatt&layout=compact" height="150">
 
-<p align="center">
-<img src="Images/SwiftyGo/MoveToView.gif" width="500" height="350" title="Home">
-  <img src="Images/SwiftyGo/popToPrevious.gif" width="500" height="350" title="Menu">
-  
+&nbsp;&nbsp;
+<img alt="Github Stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=Hitarthbhatt&show_icons=true&include_all_commits=true&bg_color=00000000" height="150">
 
-</p>
+</div>
 
-<i>Get your code here: <a href="https://github.com/SimformSolutionsPvtLtd/SSSwiftyGo">Let's Go</a></i>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Logo.png" width="100"  title="Zone">
-</p>
-
-<h2 align="center">
-Zone
-</h2>
-
-
-<p align="center">
-<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Launch.png" width="230"  title="Launch">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Home.png" width="230" title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Zone/Detail.png" width="230" title="Detail">
-  
-
-</p>
-
-<i>Get your code here: <a href="https://github.com/Hitarthbhatt/Zone">Let's Go</a></i>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Logo.png" width="100"  title="Shomp">
-</p>
-
-<h2 align="center">
-Shomp
-</h2>
-
-
-<p align="center">
-<img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Bookmark.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Home.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Hitarthbhatt/Hitarthbhatt/blob/main/Images/Shopy/Home%20Images/Shomp/Cart.png" width="230" title="Detail">
-  
-
-</p>
-
-<i>Get your code here: <a href="https://github.com/Hitarthbhatt/Shomp-ShoppingApp">Let's Go</a></i>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp;</p>
-<p align="center">
-<img src="Images/Cake/logo.png" width="80"  title="Word Guess">
-</p>
-
-<h2 align="center">
-  Cake Shop
-</h2>
-
-CakeShop is the cake ordering application that I am currently working on. In this application, the users can see all the cakes that are available in the nearby bakery shops. Users have several features like 
-1) Live Tracking, 2) Add to cart, 3) Select quantity, 4) Favorites, 5) Pay on delivery, 6) Takeaway, and 7) Order Status, etc. these are the main features that increase User Experience.
-
-I'm so excited about users to feedback when this app will available on the app store.
-
-
-
-<p>&nbsp;</p>
-
-
-<p align="center">
-   <img src="Images/Cake/Cake.gif" width="500"  title="gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
-
-<p align="center">
-<img src="Images/Cake/welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Onboarding.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Cake/Menu.png" width="222" title="Cart">
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>&nbsp;</p>
-<p align="center">
-<img src="Images/Agora/logo.png" width="80"  title="Word Guess">
-</p>
-
-<h2 align="center">
-  Agora
-</h2>
-
-In 2020 I tried to participate in Google Summer of Code (GSoC) and take Open Source Organization AOSSIE project which is the Agora Vote iOS Application. 
-
-In this application, users can create elections by adding the name, description, start and end time, election type, and some other details.
-Also, users can participate in the election and vote for its favored candidate.
-
-<p color="blue">
-<a href="Images/Agora/My Proposal.pdf" target="_blank">  My Proposal </a>
-</p>
-
-<p>&nbsp;</p>
-
-
-<p align="center">
-<img src="Images/Agora/Welcome.png" width="230"  title="Home">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Login.png" width="230" title="Menu">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Home.png" width="230" title="Detail">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Agora/Election.png" width="230" title="Cart">
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">
- Thank You For Stopping By!
-</h1>
-
-
+![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=Hitarthbhatt.Hitarthbhatt)
