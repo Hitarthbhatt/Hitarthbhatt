@@ -33,4 +33,4 @@
 
 </p>
 
-![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=Hitarthbhatt.Hitarthbhatt)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Hitarthbhatt.Hitarthbhatt&format=true)
